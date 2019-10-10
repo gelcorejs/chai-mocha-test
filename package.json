@@ -1,0 +1,23 @@
+{
+  "name": "chai-mocha-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gelcorejs/chai-mocha-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gelcorejs/chai-mocha-test/issues"
+  },
+  "homepage": "https://github.com/gelcorejs/chai-mocha-test#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
